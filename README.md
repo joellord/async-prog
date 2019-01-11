@@ -4,4 +4,5 @@ When starting to dabble with Javascript, the biggest challenge for most develope
 
 ## Presented at 
 * Confoo, Montreal, March 2018 [Slides](http://www.javascripteverything.com/slides/async-confoo.pdf)
-
+* iJS, London, April 2018
+* CodeMash, Sundusky OH, January 2019
